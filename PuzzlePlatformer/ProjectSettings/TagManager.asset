@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - Player
+  - Cameras
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2116099231
+    locked: 0
+  - name: LevelBG
+    uniqueID: 2510636607
+    locked: 0
+  - name: NPC
+    uniqueID: 172559071
+    locked: 0
+  - name: Player
+    uniqueID: 2344118779
+    locked: 0
+  - name: LevelFG
+    uniqueID: 884679513
+    locked: 0
+  - name: Terrain
+    uniqueID: 3650698941
+    locked: 0
+  - name: FG
+    uniqueID: 3405993979
+    locked: 0
